@@ -41,3 +41,7 @@ Esto es una *prueba* de sintáxis con **Markdown**.
  # Referencias
  
  [Moodle Centros Almería](https://educacionadistancia.juntadeandalucia.es/centros/almeria/my/)
+
+ [Enlace al nuevo documento](test.md)
+
+ ![](images/almeria-muralla-alcazaba-s549427006.jpg)
